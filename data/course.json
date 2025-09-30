@@ -1,0 +1,68 @@
+{
+  "term": "January IAP",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "7d54f9c7-7272-04cf-59dc-6b9607526665",
+  "instructors": {
+    "content": [
+      "d9ca5631-c693-6252-866d-63683c0c453e",
+      "a04ceefa-2fc4-9d12-f4f3-8f3a6a8b65c9",
+      "5b7d4ef6-87ec-a5a0-7aa9-c3ceeb13d738"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "70aced48-c6f2-56b6-5825-84632ce2b8e7",
+    "website": "22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015"
+  },
+  "course_title": "Do-It-Yourself (DIY) Geiger Counters",
+  "hide_download": true,
+  "course_description": "This experimental one-week course is a freshman-accessible hands-on introduction to Nuclear Science and Engineering at MIT. Students build and test their own Geiger Counter, and so doing, they explore different types and sources of radiation, how to detect them, how to shield them, how to accurately count / measure their activity, and explore cryptographical applications of radiation. This course is meant to be enjoyable and rigorous at the same time.\n\nThis course was offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs during January each year.\n\nWARNING NOTICE:\n\nAn activity described in this course is potentially hazardous and requires a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.S902",
+  "course_image_thumbnail": {
+    "content": "b1003948-0660-fad0-675e-f8fd7f6f5343",
+    "website": "22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Image Gallery",
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "9c621d5f-4b41-4ca7-911b-325304501799",
+  "site_short_id": "22.s902-january-iap-2015",
+  "site_url_path": "courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015",
+  "title": "Course Metadata"
+}

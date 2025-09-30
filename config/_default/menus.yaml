@@ -1,0 +1,52 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: adf462e3-30db-0ea3-aaab-5022eb0a8383
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 7fd15314-cf44-98b9-dd0f-da1a5006a8c1
+  name: Course History and Future Iteration
+  pageRef: /pages/instructor-insights/course-history-and-future-iteration
+  parent: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  weight: 30
+- identifier: 5087b81e-e1ca-db94-395d-4e534e543e0b
+  name: Developing and Teaching Hands-on Courses
+  pageRef: /pages/instructor-insights/developing-and-teaching-hands-on-courses
+  parent: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  weight: 40
+- identifier: 98971248-f330-c89d-5a34-f4974c4a6f72
+  name: Learning to Ask the Questions
+  pageRef: /pages/instructor-insights/learning-to-ask-the-questions
+  parent: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  weight: 50
+- identifier: 45b30629-416a-3767-db1e-56282160518a
+  name: Keeping Students Interested, and Talking
+  pageRef: /pages/instructor-insights/keeping-students-interested-and-talking
+  parent: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  weight: 60
+- identifier: cb1e6ecb-bd7a-166f-67f4-51467e7df99b
+  name: The After Life of Geiger Counters
+  pageRef: /pages/instructor-insights/the-after-life-of-geiger-counters
+  parent: 2d14bffe-dd63-6c9b-d719-7e8d00556326
+  weight: 70
+- identifier: af350b6c-0752-3b73-d878-20ee02ad9d34
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 74b4f0cb-ca11-78d1-5cb7-2114df36247a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 90
+- identifier: 0a5c29e2-f52d-4752-9bda-850fda8afce7
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
+- identifier: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
+  name: Labs
+  pageRef: /pages/labs
+  weight: 110
