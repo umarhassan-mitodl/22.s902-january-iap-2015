@@ -5,8 +5,6 @@ description: 'This file contains information regarding problem set 2: geiger cou
 file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0a098e4fe8bb47127c5e3be86e842381_MIT22_S902IAP15_pset02.pdf
 file_size: 131288
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

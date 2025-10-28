@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the course assignments and supporting materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -76,7 +74,7 @@ After learning about the NSE Geiger Data Collection program (see {{% resource_li
 {{% resource_link 525ef5a3-43a0-71cb-3dd3-d81109bede38 "Problem Set 3: Shielding (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[NIST Tables of Linear Attentuation Coefficients](http://www.nist.gov/pml/data/xraycoef/)
+{{% resource_link "04085b76-cd7f-4cb4-807d-031a1324690e" "NIST Tables of Linear Attentuation Coefficients" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -42,7 +42,6 @@
     "website": "22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015"
   },
   "course_title": "Do-It-Yourself (DIY) Geiger Counters",
-  "hide_download": true,
   "course_description": "This experimental one-week course is a freshman-accessible hands-on introduction to Nuclear Science and Engineering at MIT. Students build and test their own Geiger Counter, and so doing, they explore different types and sources of radiation, how to detect them, how to shield them, how to accurately count / measure their activity, and explore cryptographical applications of radiation. This course is meant to be enjoyable and rigorous at the same time.\n\nThis course was offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs during January each year.\n\nWARNING NOTICE:\n\nAn activity described in this course is potentially hazardous and requires a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)\n",
   "department_numbers": [
     "22"
@@ -53,7 +52,6 @@
     "content": "b1003948-0660-fad0-675e-f8fd7f6f5343",
     "website": "22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Image Gallery",

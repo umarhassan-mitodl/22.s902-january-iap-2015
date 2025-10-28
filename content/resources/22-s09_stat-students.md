@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/ba8dd100dab5d9b6b0346922f9e6eb90_22-S09_stat-students.png
 file_size: 2741
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

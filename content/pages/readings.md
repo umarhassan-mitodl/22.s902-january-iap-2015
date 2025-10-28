@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course textbook, assigned readings,
   and background and supplemental readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +12,7 @@ uid: af350b6c-0752-3b73-d878-20ee02ad9d34
 Course Textbook
 ---------------
 
-\[Turner\] = Turner, James. _Atoms, Radiation, and Radiation Protection_. 3rd ed. Wiley-VCH, 2007. ISBN: 9783527406067. \[Preview with [Google Books](http://books.google.com/books?id=-NjMPZEt2yUC&pg=PAfrontcover)\]
+\[Turner\] = Turner, James. _Atoms, Radiation, and Radiation Protection_. 3rd ed. Wiley-VCH, 2007. ISBN: 9783527406067. \[Preview with {{% resource_link "b3190b2c-e838-4ce4-954f-094b36d126b7" "Google Books" %}}\]
 
 Assigned Readings
 -----------------
