@@ -68,7 +68,7 @@ Since this course is only one week long, we had to get creative with homework as
 1. All assignments are due two class days after they are assigned, to give you time to ask questions.
 2. Homework assignments may look short, but they will require you to research things and think creatively.
 3. **Always cite your sources of information**! This includes journal articles, books, databases, and websites. We will use this formatting guide for references:
-    - [Summary and examples from the American Chemical Society (ACS) Style Guide](https://library.law.wisc.edu/dvd-collection/). University of Wisconsin-Madison Chemistry Library.
+    - {{% resource_link "3eb9e30d-3864-4f9e-b02d-672b77015192" "Summary and examples from the American Chemical Society (ACS) Style Guide" %}}. University of Wisconsin-Madison Chemistry Library.
 4. You may prepare your answers however you like, but they must be submitted electronically.
 5. You may work together in any sized group. If you do, you must clearly write with whom you worked.
 

@@ -31,23 +31,23 @@ OCW cannot provide this parts kit to you directly, but we can offer tips on how 
 
 - In 2015, the parts would cost $60-$100 US (depending on your source).
 - Most parts should be readily available from any electronics retailer.
-- The SBM20 Geiger-Müller tube can be purchased on [eBay](http://www.ebay.com).
-- Circuit board fabrication companies can make the board for you, using the specification in these {{% resource_link "0dd01977-ae3f-5be7-8d62-8cae74d4e615" "Gerber files (ZIP)" %}} (This ZIP file contains: 1 .gbl file, 1 .txt file, 1 .gbo file, 1 .gtl file, 1 .gts file, and 1 .gto file). One such company is [Advanced Circuits](http://www.4pcb.com/). Shop for student specials on a single or small number of boards. 
-- The plastic case is a Serpac 052C, which can be ordered from electronics retailers like [DigiKey](http://www.digikey.com/product-detail/en/052C,BK/SR052-CB-ND/2206037).
+- The SBM20 Geiger-Müller tube can be purchased on {{% resource_link "8f65a526-8de2-4500-a3d5-32d587c6b49f" "eBay" %}}.
+- Circuit board fabrication companies can make the board for you, using the specification in these {{% resource_link "0dd01977-ae3f-5be7-8d62-8cae74d4e615" "Gerber files (ZIP)" %}} (This ZIP file contains: 1 .gbl file, 1 .txt file, 1 .gbo file, 1 .gtl file, 1 .gts file, and 1 .gto file). One such company is {{% resource_link "3d6083ff-9e75-41cc-b8f8-85ea91ee84b7" "Advanced Circuits" %}}. Shop for student specials on a single or small number of boards. 
+- The plastic case is a Serpac 052C, which can be ordered from electronics retailers like {{% resource_link "0527d3eb-0a7f-44e8-8744-10911db1b2b8" "DigiKey" %}}.
 - The case must have holes drilled in its sides, in order to let the beta particles through. While the MIT kit's case was custom machined on a CNC to produce letter-shaped holes, any shape holes in the middle of the sides will do. Refer to these mechanical drawings for guidance on the proper location of the holes: {{% resource_link "6aaa8bf9-e8c8-9368-f891-f4772b8b82d2" "top-view drawing (PDF)" %}} and {{% resource_link "9fc0523f-a416-59a6-4169-d53575349cc2" "bottom-view drawing (PDF)" %}}.
 
-**NOTE** (July 2015): If OCW users express sufficient interest, the MIT Department of Nuclear Science and Engineering might offer this kit for sale to the public. If you are interested, please let them know by completing this brief [web survey](https://survey.zohopublic.com/zs/JIiBBQ).
+**NOTE** (July 2015): If OCW users express sufficient interest, the MIT Department of Nuclear Science and Engineering might offer this kit for sale to the public. If you are interested, please let them know by completing this brief {{% resource_link "8230b2be-467b-4f18-8c05-b19c2c8cf471" "web survey" %}}.
 
 ## Tools and Software
 
-Labs use the [National Instruments ELVIS II](http://sine.ni.com/nips/cds/view/p/lang/en/nid/205425) system and MIT-provided software running on a Windows personal computer to collect data about the Geiger counter.
+Labs use the {{% resource_link "05280de3-b054-4835-878c-e9bc325e7f54" "National Instruments ELVIS II" %}} system and MIT-provided software running on a Windows personal computer to collect data about the Geiger counter.
 
 Begin by installing the National Instruments LabVIEW Run-Time engine and NI-DAQmx Run-Time engine. The versions of these programs used during the January 2015 MIT class are linked below.
 
-- [LabVIEW Runtime Engine 2014](http://www.ni.com/download/labview-run-time-engine-2014/4887/en/)
-- [NI-DAQmx 14.1 Runtime Engine](http://www.ni.com/download/ni-daqmx-run-time-engine-14.1/4954/en/)
+- {{% resource_link "56f08daf-edfd-476f-8242-dc6d787e8f67" "LabVIEW Runtime Engine 2014" %}}
+- {{% resource_link "00e9c35a-f405-4a26-adec-2e80f91e58bc" "NI-DAQmx 14.1 Runtime Engine" %}}
 
-Note that these programs are updated frequently; consult the [NI Hardware Drivers page](http://www.ni.com/downloads/ni-drivers/) for the latest versions.
+Note that these programs are updated frequently; consult the {{% resource_link "94a1bb86-f7ca-4b38-84d3-c9e7283de2f1" "NI Hardware Drivers page" %}} for the latest versions.
 
 ### MIT NSE Geiger Data Collection Program
 
